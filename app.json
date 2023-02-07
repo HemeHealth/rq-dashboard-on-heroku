@@ -2,5 +2,6 @@
   "name": "RQ Dashboard",
   "description": "Web front-end for monitoring RQ queues",
   "repository": "https://github.com/metabolize/rq-dashboard-on-heroku",
-  "keywords": ["rq", "dashboard", "rq-dashboard"]
+  "keywords": ["rq", "dashboard", "rq-dashboard"],
+  "stack": "heroku-20"
 }
